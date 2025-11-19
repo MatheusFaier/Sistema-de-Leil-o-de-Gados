@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "raca": "Nelore",
+        "quantidade": 100,
+        "lance_atual": 23000.0,
+        "arrematante_atual": "Jack",
+        "status": "ENCERRADO"
+    },
+    {
+        "id": 2,
+        "raca": "Angus",
+        "quantidade": 70,
+        "lance_atual": 30000.0,
+        "arrematante_atual": "Matheus",
+        "status": "ENCERRADO"
+    },
+    {
+        "id": 3,
+        "raca": "Zebu",
+        "quantidade": 30,
+        "lance_atual": 27000.0,
+        "arrematante_atual": "Jack",
+        "status": "ABERTO"
+    },
+    {
+        "id": 4,
+        "raca": "Nelore",
+        "quantidade": 100,
+        "lance_atual": 35000.0,
+        "arrematante_atual": "Jack",
+        "status": "ABERTO"
+    },
+    {
+        "id": 5,
+        "raca": "nelore",
+        "quantidade": 30,
+        "lance_atual": 5000.0,
+        "arrematante_atual": "Nenhum",
+        "status": "ABERTO"
+    }
+]
